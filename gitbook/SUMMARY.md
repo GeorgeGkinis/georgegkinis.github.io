@@ -8,5 +8,5 @@
 
 ## About
 
-* [Meet Our Team](about/meet-our-team.md)
-* [Disclaimer](about/disclaimer.md)
+* [Meet Our Team](About/meet-our-team.md)
+* [Disclaimer](About/disclaimer.md)
