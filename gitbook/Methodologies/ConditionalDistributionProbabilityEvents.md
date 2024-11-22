@@ -2,7 +2,7 @@
 icon: markdown
 ---
 
-# CDP - Events
+# Conditional Distribution Probability (CDP) - Events
 
 The "Conditional Distribution Probability (CDP) - Events" is a systematic approach to identifying significant events in time series data.
 
