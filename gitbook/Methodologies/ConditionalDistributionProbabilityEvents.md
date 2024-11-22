@@ -49,4 +49,3 @@ See here an example notebook plot:
 {% embed url="https://k-pantelidis.github.io/cases/probabilities/public.html" %}
 
 Author: [**Konstantinos Pantelidis**](../about-us/meet-our-team.md#konstantinos-pantelidis)
-
